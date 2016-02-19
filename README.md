@@ -1,4 +1,4 @@
-## The Scrum Master's Prayer
+## The Agile Prayer
 
 Our Agile Father who art in Sprint Planning,  
 hallowed be thy process.  
